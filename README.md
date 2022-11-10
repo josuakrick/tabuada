@@ -18,12 +18,9 @@ Bibliotecas
 Este projeto de tabuada foi desenvolvido com o fim de aprofundamento no estudo das interações do Dom com o Html.
 
 
-## 🔖 Layout Mobile
 
-<img src="mobile-design.jpg">
-
-## 🔖 Layout Desktop
-<img src="desktop-design.jpg">
+## 🔖 Layout
+<img src="Captura%20de%20tela%202022-11-10%20193544.jpg">
 
 
 
